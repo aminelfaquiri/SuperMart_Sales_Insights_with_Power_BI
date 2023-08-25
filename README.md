@@ -12,3 +12,4 @@ Welcome to the "SuperMart Sales Insights with Power BI" project! 🛒📊  Explo
 <div align="center">
   <img src="https://raw.githubusercontent.com/aminelfaquiri/SuperMart_Sales_Insights_with_Power_BI/main/assets/81482544/bbcf4cc3-6643-4da8-a2ef-a03ec978f5d7" alt="SuperMarket_page-0003" style="max-width:100%;">
 </div>
+![SuperMarket_page-0001](https://github.com/aminelfaquiri/SuperMart_Sales_Insights_with_Power_BI/assets/81482544/9af48eed-b64e-4f96-b6a6-e1b9aacfbe48)
